@@ -3,6 +3,8 @@ Este repositorio tiene un indice a algunos archivos del curso Programación con 
 
 ## Unity 
 
-Patron Singleton: https://github.com/ebrenesu/BISOFT-12_Singleton-Unity-
+Patrón Singleton: https://github.com/ebrenesu/BISOFT-12_Singleton-Unity-
 
-Patron Peso Ligero: https://github.com/ebrenesu/BISOFT-12_PesoLigero-Unity-
+Patrón Peso Ligero: https://github.com/ebrenesu/BISOFT-12_PesoLigero-Unity-
+
+Patrón Decorador: https://github.com/ebrenesu/BISOFT-12_Decorador-Unity-
