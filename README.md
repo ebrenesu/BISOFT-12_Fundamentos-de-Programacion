@@ -1,12 +1,9 @@
 # BISOFT-12 #
-Este repositorio tiene un indice a algunos archivos del curso Programación con patrones, de la universidad Cenfotec. 
+En este repositorio se van a subir algunos códigos que corresponderan a los fundamentos de programación y buen diseño de software.
 
-## Unity 
-
-Patrón Singleton: https://github.com/ebrenesu/BISOFT-12_Singleton-Unity-
-
-Patrón Peso Ligero: https://github.com/ebrenesu/BISOFT-12_PesoLigero-Unity-
-
-Patrón Decorador: https://github.com/ebrenesu/BISOFT-12_Decorador-Unity-
-
-Patrón Comando: https://github.com/ebrenesu/BISOFT-12_Comando-Unity-
+## Programación Orientada a Objetos (POO) 
+# Clases y Objetos: Entender cómo definir clases y crear instancias.
+# Encapsulación: Proteger los datos y exponer solo lo necesario.
+# Abstracción: Simplificar la complejidad mostrando solo lo esencial.
+# Polimorfismo: Métodos que pueden funcionar con diferentes tipos de datos.
+# Herencia: Permitir que una clase derive de otra, reutilizando código.
